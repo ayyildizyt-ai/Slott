@@ -1,7 +1,7 @@
 
 name: Build SlotBot APK
 
-on:
+'on':
   workflow_dispatch:
 
 jobs:
